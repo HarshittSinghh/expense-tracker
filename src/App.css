@@ -150,3 +150,9 @@ input[type="number"] {
 .list li:hover .delete-btn {
   opacity: 1;
 }
+@media screen and (max-width: 860px) {
+  .container {
+    margin: 30px auto;
+    width: 320px;
+  }
+}
